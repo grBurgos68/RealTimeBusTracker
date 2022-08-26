@@ -27,7 +27,7 @@ Ejercicio de la semana 9 de la certificación en programaciòn Full Stack MERN d
 
 :heavy_check_mark: It shows a map of the city of Boston;\
 :heavy_check_mark: It shows the stops of the bus route to the MIT;\
-:heavy_check_mark: Request a key for the map;
+:heavy_check_mark: It requests a key for the map;
 
 
 
