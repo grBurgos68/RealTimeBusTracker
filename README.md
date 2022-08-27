@@ -17,7 +17,7 @@
 
 ## :dart: Description ##
 
-Ejercicio de la semana 9 de la certificación en programaciòn Full Stack MERN del MITxpro
+Ejercicio de la semana 9 de la certificación en programaciòn Full Stack MERN del MITxpro. El ejercicio utiliza las coordenadas geoespaciales de la paradas del autobus para indicar donde se localizan en el mapa. Utiliza el servicio de mapas Mapbox el cual requiere el pago de consumo de servicio para lo cual proporciona una llave a la que al carga el excedente gratuito cargara el consumo excedente.
 
 
 [Demo](https://user-images.githubusercontent.com/98678236/186951599-cb36de71-4707-4b80-8099-b402cfe3a2f6.mp4)
